@@ -1,0 +1,18 @@
+.table-bordered {
+  width: 100%;
+
+}
+
+td, th {
+  padding: 10px;
+}
+
+#lookup, .categories {
+  background-color: white;
+}
+
+#find {
+  width: 30%;
+  float: right;
+  font-size: 18px;
+}
